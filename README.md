@@ -52,16 +52,6 @@ You’ll see a menu with two options:
 * Press `1` to start billing.
 * Press `2` to add new products to inventory.
 
-
-## 📁 File Structure
-
-receipt-generator/
-│
-├── receipt.py         # Main Python script
-├── products.csv       # Stores all product info
-├── bill.csv           # Output receipt file (auto-generated)
-└── README.md          # Project documentation
-
 ---
 
 ## 📘 Sample CSV Format
