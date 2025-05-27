@@ -39,7 +39,7 @@ A simple command-line Python tool for managing a mini shopping system. Add produ
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/receipt-generator.git
+git clone https://github.com/AymanThahir/Product-Billing-System-Using-CSV-in-Python
 cd receipt-generator
 
 ### 2. Run the Program
